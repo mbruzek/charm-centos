@@ -1,0 +1,7 @@
+name: centos
+summary: CentOS is a community supported Linux distribution.
+maintainer: Matthew Bruzek <matthew.bruzek@canonical.com>
+description: | 
+  CentOS is a Linux distribution that provides a community supported platform
+  which aims to be compatible with Red Hat Enterprise Linux (RHEL).
+tags: [ infrastructure ]
